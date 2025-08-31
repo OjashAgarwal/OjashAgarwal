@@ -37,6 +37,12 @@
 **Operating Systems:** Linux, Windows Administration  
 **Soft Skills:** Problem-Solving, Analytical Thinking, Team Collaboration  
 
+## 📂 Projects  
+
+### 🤖 Disruptor Discord Bot  
+[🔗 Repository Link](https://github.com/OjashAgarwal/Disruptor-DC-bot-)  
+A custom-built Discord bot powered by **Node.js** and `discord.js`. Features moderation, custom commands, fun interactions, and an extensible command handler.  
+
 ## 📊 GitHub Stats  
 ![Ojash's GitHub stats](https://github-readme-stats.vercel.app/api?username=OjashAgarwal&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OjashAgarwal&layout=compact&theme=tokyonight)  
@@ -46,4 +52,4 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OjashAgarwal)  
 📧 **Email:** ojashagarwal97@gmail.com  
 
-✨ *“Securing the digital future, one step at a time.”*
+✨ *“Securing the digital future, one step at a time.”*  
