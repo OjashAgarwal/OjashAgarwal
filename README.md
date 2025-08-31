@@ -2,7 +2,6 @@
 
 🎓 **BCA (Cybersecurity) Student (2024–2027)** at **ICFAI University, Jaipur**  
 🔐 Passionate about **Cybersecurity, Ethical Hacking, and Network Defense**  
-📊 1st Year CGPA: **8.78 / 10**  
 💡 Exploring how to protect data, networks, and systems from modern cyber threats  
 
 ## 🚀 About Me  
